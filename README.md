@@ -4,15 +4,15 @@
  
  Set 'Adafruit_SSD1306.h' to these settings:
  
-    #define SSD1306_I2C_ADDRESS   0x3C  // 011110+SA0+RW - 0x3C or 0x3D
-    // #define SSD1306_64_48
-    #define SSD1306_128_64
-    //   #define SSD1306_128_32
-    //   #define SSD1306_96_16
+   #define SSD1306_I2C_ADDRESS   0x3C  // 011110+SA0+RW - 0x3C or 0x3D
+   // #define SSD1306_64_48
+   #define SSD1306_128_64
+   //   #define SSD1306_128_32
+   //   #define SSD1306_96_16
 
 ![CO2-Sensor](CO2sensor.jpg)
 
 ![Scrolling text](ScrollingText.png)
 
-                                  Longer text scrolls left<->right
+                                     Longer text scrolls left<->right
  

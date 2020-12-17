@@ -10,4 +10,4 @@
     //   #define SSD1306_128_32
     //   #define SSD1306_96_16
 
-!(https://github.com/chrisweather/CO2-Sensor-Display-TrafficLight/code/CO2sensor.jpg?raw=true)
+!(https://github.com/chrisweather/CO2-Sensor-Display-TrafficLight/CO2sensor.jpg?raw=true)

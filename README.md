@@ -14,5 +14,5 @@
 
 ![Scrolling text](ScrollingText.png)
 
-                                     Longer text scrolls left<->right
+                                Longer text scrolls left<->right
  

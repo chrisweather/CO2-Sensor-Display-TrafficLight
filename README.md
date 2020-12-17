@@ -9,3 +9,5 @@
     #define SSD1306_128_64
     //   #define SSD1306_128_32
     //   #define SSD1306_96_16
+
+![alt text](https://github.com/chrisweather/CO2-Sensor-Display-TrafficLight/blob/CO2sensor.jpg?raw=true)

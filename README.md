@@ -11,3 +11,8 @@
     //   #define SSD1306_96_16
 
 ![CO2-Sensor](CO2sensor.jpg)
+
+![Scrolling text](ScrollingText.png)
+
+ Longer text scrolls left<->right
+ 

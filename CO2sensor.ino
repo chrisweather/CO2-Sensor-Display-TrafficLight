@@ -1,7 +1,8 @@
 // ################################################################################
 // # CO2-Sensor with Display and Traffic Light                                    #
 // # based on Wemos D1 mini, MH-Z19B CO2-Sensor, OLED-Shield 64x48, Neopixel LED  #
-// #############################################################################ch#
+// # https://github.com/chrisweather/CO2-Sensor-Display-TrafficLight              #
+// ################################################################################
 
 #include <SPI.h>
 #include <Wire.h>
@@ -101,8 +102,7 @@ void loop() {
   display.clearDisplay();
   display.setTextColor(WHITE);
 
-  // Display current CO2 value and warning >1000 ppm
-  if (CO2value >= 1000){
+  if (CO2value >= 1000){  // Display current CO2 value and warning >=1000 ppm
     display.setCursor(40,17);  // x, y need some tuning as the virtual display is larger than the physical display
     display.setTextSize(1);
     display.print(CO2value);
@@ -124,8 +124,7 @@ void loop() {
     delay(850);
     display.stopscroll();
     }
-  // Display current CO2 value
-  else {
+  else {  // Display current CO2 value
     display.setTextSize(2);
     display.setCursor(45,33);  // x, y
     if (CO2value < 0) {

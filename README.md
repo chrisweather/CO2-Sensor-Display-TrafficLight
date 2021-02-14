@@ -11,9 +11,9 @@ A simple CO2-Meter based on Wemos D1 mini, MH-Z19B CO2-Sensor, OLED-Display-Shie
     //   #define SSD1306_128_32
     //   #define SSD1306_96_16
 
-![CO2-Sensor](CO2sensor.jpg)
+![CO2-Sensor](doc/CO2sensor.jpg)
 
-![Scrolling text](ScrollingText.png)
+![Scrolling text](doc/ScrollingText.png)
 
 The long text scrolls left<->right
  

@@ -1,7 +1,11 @@
 // ################################################################################
 // # CO2-Sensor with Display and Traffic Light                                    #
 // # based on Wemos D1 mini, MH-Z19B CO2-Sensor, OLED-Shield 64x48, Neopixel LED  #
+// #                                                                              #
+// # Copyright (c) 2020-2021, Christian Heinrichs.                                #
+// # All rights reserved.                                                         #
 // # https://github.com/chrisweather/CO2-Sensor-Display-TrafficLight              #
+// #                                                                              #
 // ################################################################################
 
 #include <SPI.h>

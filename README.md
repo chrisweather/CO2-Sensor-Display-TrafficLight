@@ -1,7 +1,7 @@
 # CO2-Sensor with Display and Traffic Light - ESP8266
  
-A simple CO2-Meter based on Wemos D1 mini, MH-Z19B CO2-Sensor, OLED-Display-Shield 64x48, Neopixel LED
-A first try to get familiar with some of the parts.
+A simple CO2-Meter based on Wemos D1 mini, MH-Z19B CO2-Sensor, OLED-Display-Shield 64x48, Neopixel LED  
+A first try to get familiar with some of the parts.  
 See https://github.com/chrisweather/Office-Climate-Control for the final result.
 
  

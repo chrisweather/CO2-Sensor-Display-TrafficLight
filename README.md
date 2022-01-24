@@ -19,5 +19,5 @@ See https://github.com/chrisweather/Office-Climate-Control for the final result.
 
 <img src="doc/ScrollingText.png" width="40%" alt="Front View"/> 
 
-The long text scrolls left<->right if it's longer longer than the display.
+The text scrolls left<->right if it's longer than the display.
  
